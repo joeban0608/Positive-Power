@@ -10,4 +10,4 @@ conception:Top ten classical sentence
   3. Pictures Resource圖庫：  
   * https://unsplash.com/s/photos/hourglass  
 
-尚未建立完成。檔案太多
+尚未建立完成。還不會用git 上傳資料夾。
