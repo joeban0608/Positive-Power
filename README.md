@@ -1,5 +1,5 @@
 # Positive-Power
-Zero-to-master-Coding_Challenge-8_project:Positive-Power
+Zero-to-master-Coding_Challenge-8_project:Positive-Power  
 概念：經典語錄-  
 conception:Top ten classical sentence 
 Reference參考：  
