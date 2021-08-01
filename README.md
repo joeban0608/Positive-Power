@@ -7,5 +7,5 @@ conception:Top ten classical sentence
   2. toolkit 工具：  
     * website template:https://mdbootstrap.com/freebies/magazine/  
     * mail server:https://mailchi.mp/  
-  3.Pictures Resource圖庫：  
+  3. Pictures Resource圖庫：  
   * https://unsplash.com/s/photos/hourglass  
