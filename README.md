@@ -1,6 +1,7 @@
 # Positive-Power
 Zero-to-master-Coding_Challenge-8_project:Positive-Power
-conception:Top ten classical sentence 概念：經典語錄-  
+概念：經典語錄-  
+conception:Top ten classical sentence 
 Reference參考：  
 https://arielhsu.tw/classic-words-1/  
 toolkit工具:  
