@@ -9,3 +9,5 @@ conception:Top ten classical sentence
     * mail server:https://mailchi.mp/  
   3. Pictures Resource圖庫：  
   * https://unsplash.com/s/photos/hourglass  
+
+尚未建立完成。檔案太多
